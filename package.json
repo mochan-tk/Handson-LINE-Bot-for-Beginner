@@ -1,0 +1,19 @@
+{
+    "name": "line-bot",
+    "version": "",
+    "description": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "",
+    "dependencies": {
+        "@azure/cognitiveservices-face": "^5.0.0",
+        "@azure/cosmos": "^3.17.2",
+        "@azure/ms-rest-azure-js": "^2.1.0",
+        "@azure/storage-blob": "^12.12.0",
+        "@line/bot-sdk": "^7.5.2",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2"
+    }
+}
